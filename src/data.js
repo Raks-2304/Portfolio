@@ -1,6 +1,6 @@
 import componentsImg from './assets/Caeser Cipher game ss.png';
 import propsImg from './assets/Paws Connect.jpeg';
-import jsxImg from './assets/ProductStore MERN1.png';
+import jsxImg from './assets/Product Store.png';
 import stateImg from './assets/React Essentials.jpg';
 
 export const CORE_CONCEPTS = [
